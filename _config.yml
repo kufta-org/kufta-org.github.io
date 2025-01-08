@@ -18,14 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: luke.kufta.org
-email: lukenajeeb@mailbox.org
+title: kufta.org
+email: kufta@mailbox.org
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "luke.kufta.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lukenajeeb
-github_username: lukenajeeb
+url: "blog.kufta.org" # the base hostname & protocol for your site, e.g. http://example.com
 # matrix_username: lukenajeeb:waffle.tech
 
 # Build settings
